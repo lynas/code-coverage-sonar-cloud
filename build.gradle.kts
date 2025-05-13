@@ -42,8 +42,8 @@ tasks.jacocoTestReport {
 
 sonar {
 	properties {
-		property("sonar.projectKey", "sazzad-org-1_code-coverage")
-		property("sonar.organization", "sazzad-org-1")
+		property("sonar.projectKey", "sazzad-islam-eu_code-coverage")
+		property("sonar.organization", "sazzad-islam-eu")
 		property("sonar.host.url", "https://sonarcloud.io")
 	}
 }
